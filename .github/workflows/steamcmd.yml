@@ -34,4 +34,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/The-Shortman/steamcmd:${{ matrix.distro }}
+            ghcr.io/the-shortman/steamcmd:${{ matrix.distro }}
